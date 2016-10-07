@@ -1,3 +1,3 @@
 # learning
 
-Code from books and videos and other stuff. Self-education
+Code from books, videos, coursera courses, some quick and dirty tests for side-projects. Self-education
